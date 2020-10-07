@@ -51,6 +51,11 @@ body {
     align-items:center;
 }
 
+.btnlist {
+    display: flex;
+    align-items: row;
+}
+
 .imgBtn {
     width: var(--size-button);
     height: var(--size-button);
